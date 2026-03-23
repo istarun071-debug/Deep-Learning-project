@@ -29,3 +29,4 @@ output of the task
 
 <img width="1316" height="792" alt="Image" src="https://github.com/user-attachments/assets/546fbcd0-c562-4465-90db-402d82a3ef8e" />
 
+<img width="1493" height="710" alt="Image" src="https://github.com/user-attachments/assets/4502aaba-884d-4844-8397-72bb99a88c70" />
