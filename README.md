@@ -27,3 +27,5 @@ The final deliverable of the project is a fully functional deep learning model a
 
 output of the task 
 
+<img width="1316" height="792" alt="Image" src="https://github.com/user-attachments/assets/546fbcd0-c562-4465-90db-402d82a3ef8e" />
+
